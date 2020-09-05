@@ -1,0 +1,153 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Konstruktion
+  icon: "images/skills/gear_2.svg"
+  summary: "
+  Über 10 Jahre Erfahrung im Sondermaschinenbau und Tätigkeiten als Konstrukeur bieten den Ausgleich zwischen theoretischem Hintergrund und praktischen Handeln.
+
+
+  Tätigkeiten als Konstrukeur oder als Leiter eines Teams reizen mich nach 20 Jahren immer noch sehr. Alle Themen / Aufgabenstellungen begeistern mich sehr und stürze mich gerne in neue Themenbereiche.
+
+
+  Strukturiertes Denken und ein hohes Abstraktionsvermögen zeichnen mich in diesem Bereich besonders aus."
+
+- name: Entwicklung
+  icon: "images/skills/gear_1.svg"
+  summary: "Mit dem nötigem Wissen in Projektmanagment und dem nötigen theoretischem Hintergrund in einer Vielzahl von Themengebieten, bis hin zur Auswertung und Bewertung von Messdaten, finden Sie bei mir einen guten Partner in der Produktentwicklung und Wissensaufbaues in Ihrem Unternehmen.
+
+
+  Modernen Arbeitsweisen und deren Einführung, wie zum Beispiel *Agile Produktentwicklung* oder *\"reine\" Projektorganisation*, durfte ich an meinen letzten Stationen miterleben."
+
+- name: Numerische Mathematik
+  icon: "images/skills/mathe_logo.png"
+  summary: "Aufgrund meiner Leidenschaft für Mathematik, und damit verbunden für Differentialgleichungen, vertiefe ich mich gerne in Themenkomplexe. Dies hilft mir unter anderem in der Struktur- oder Fluidmechanik komplexe Aufgabenstellungen zu verstehen und Abschätzungen abzuleiten.
+
+
+  Kombiniert mit meiner Programmier-Leidenschaft, bietet dies ein großes Potential für passende Aufgabenstellungen."
+
+- name: Strukturmechanik
+  icon: "images/skills/maschinenbau.png"
+  summary: "Excellente theoretische Kentnissvermitllung während des Studiums und praktische Vertiefungen bieten die nötige Balance zwischen Theorie und Praxis.
+
+
+  Theoretische Kentnisse in Kunststoffen, Hochtemperaturwerkstoffanwendung und Leichtbau sind neben der klassischen Lehre ebenfalls vorhanden und wurden in den von mir absolvierten Studiengänge angeeignet.
+
+
+  Eine Begeisterung in der Anwendung (z.B. in der Bauteilauslegung) und die Fähigkeit der Erstellung von Abschätzungen runden mein Profil ab."
+
+- name: Strömungslehre
+  icon: "images/skills/maschinenbau.png"
+  summary: "Fluidmechanik fesselte mich in den ersten Stunden der Vorlesung und beschäftige mich seit eher mit Thematiken aus diesem Bereich.
+
+
+  Anstellungen bei Continental in Regensburg (Dieseleinspritzsysteme) und W&H Dentalwerke Bürmoos führten zu Praxiserfahrungen.
+
+
+  Chemische Reaktionen, Überschall (supersonic) und Schallausbreitung fehlen noch in meinem Erfahrungsschatz.
+  "
+
+- name: Ingenieur Tools
+  icon: "images/skills/maschinenbau.png"
+  summary: "In meinem beruflichen Werdegang arbeite ich unter anderem mit folgenden Programme:
+      <ul>
+      <li>SolidWorks</li>
+      <li>Siemens NX (Unigraphics)</li>
+      <li>ANSYS Workbench Mechanical</li>
+      <li>ANSYS CFX und Fluent (inkl. UDF coding)</li>
+      <li>OptiSlang und modeFrontier</li>
+      <li>Sculpture mesh deformation</li>
+      <li>Matlab und Mathematica</li>
+      </ul>
+
+
+      Kentnisse in Tools wie OpenFOAM, Calculix, mfem, Paraview, Salome Platform und Blender sind vorhanden und würde gerne diese in der Praxis einsetzen."
+
+- name: Container & Cloud
+  icon: "images/skills/5874934.png"
+  url: "https://github.com/containers/"
+  summary: "Erfahrungen und stetige Verwendung von Anwendungen in Containers. Öffentliche Container-Images + Öffentliche Repository der Build-Skripte auf Github unter **TEFEdotCC**.
+
+
+  Vertraut mit Docker-Umgebung und RedHat Tools (buildah, podman, ...).
+
+
+  Amazon Web Serice (AWS) und Alibaba Cloud sind ein Begriff. Fragen wie \"Ist Elastic Computing Service geeignet für ...\" finden häufig eine einfache Antwort."
+
+- name: Betriebssysteme
+  icon: "images/skills/linux.png"
+  summary: "Benutze Linux als Hauptbetriebssystem. Eingestiegen mit openSuSe 9.3, über Ubuntu zu ArchLinux.
+
+
+  Ebenfalls ist FreeBSD ein Begriff und kommt im privatem Bereich zum Einsatz.
+
+
+  Ubuntu, Fedora und CentOS setze ich derzeit als Basis-Systeme für Server- und Berechnungssysteme ein. Abhängig vom Hauptsystem der jeweiligen Entwicklergemeinde."
+
+- name: Git (VCS, DevOps)
+  icon: "images/skills/git.png"
+  url: "https://git-scm.com/"
+  summary: "Erste Erfahrungen mit git-basierende Entwicklung gesammelt. Meistens auf GitHub, jedoch ist GitLab ebenfalls vertreten.
+
+
+  Im privatem Bereich betreibe ich einen eigenen GitLab-Server.
+
+
+  (Historische) Systeme, wie z.B. Mercurial, Subversion und CVS, sind ebenfalls ein Begriff."
+
+- name: Programmiersprachen
+  icon: "images/skills/rust-logo-blk.svg"
+  summary: 'Jedes Jahr eine neue Programmiersprache war lange ein Motto meines Lebens.
+
+
+  Folgende Sprachen verfolge ich seither intensiver:<ul>
+      <li>[rust](https://www.rust-lang.org/)</li>
+      <li>C / C++</li>
+      <li>FORTRAN 77 bis 2003</li>
+      <li>C# (.NET Plattform)
+    </ul>
+
+  Offen für / noch auf der ToDo-Liste:
+
+      <ul>
+      <li>Ada und Spark als C Alternative.</li>
+      <li>Lua (Vertiefung)</li>
+      <li>R (Statistical Computing)</li>
+    </ul>
+  '
+
+- name: Skriptsprachen
+  icon: "images/skills/Python-logo-notext.svg"
+  url: 'https://www.python.org/'
+  summary: 'Neben Shellskripte \(bash, zsh\) und Skriptsprachen \(Lua, PHP, JavaScript\), sollte Python als eine der Sprachen für Ingenieur-Bibliotheken erwähnt werden.
+
+
+  Aktive Weiterentwicklung von Bibliotheken mit herausragendem Wissen führten zu Anerkennungen.
+
+
+  **python:reliability**<br />*Thomas Enzinger for help in improving the method of finding the area in stress-strength interference between any two distributions.*'
+
+- name: Datenbank-Backend
+  icon: "images/skills/elephant.png"
+  url: 'https://www.postgresql.org/'
+  summary: 'Erfahrungen mit PostgreSQL und sqlite in professionellen Anwendungen. Verwende genannte Datenbank als Standard-Software, sofern der Anwendungsfall keine speziellen Anforderungen stellt.
+
+
+  Python bietet mit Pandas eine gute Bibliothek zur Interoperabilität mit bereits vorhandenen Datenverwaltungen wie Excel- oder CSV-Dateien.'
+
+- name: GUI - Frontend
+  icon: 'images/skills/Qt_logo_2016.svg'
+  url: 'https://www.qt.io/'
+  summary: 'Neben den üblichen Frameworks für Frontends, verwende ich gerne Qt für Plots und Visualisierung von Messdaten, die meist in großen Datenmengen /-punkten vorliegen.<br />Verwendete Frameworks (z.B. in C#) meist im Performancebereich sehr negativ auffallend.
+
+
+  Python als erste Wahl für schnelle Plots und Auswertung + Darstellung von Messdaten.'

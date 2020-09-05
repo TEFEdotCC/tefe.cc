@@ -1,0 +1,73 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Technischer Mitarbeiter F&E
+# your company information
+company:
+  name: W&H Dentalwerke Bürmoos GmbH
+  url: "https://www.wh.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume_thomas_enzinger.pdf"
+certificates: "files/certificates_thomas_enzinger.pdf"
+
+# a summary about you
+summary: '
+Ich bin ein passionierter Ingenieur mit 20 Jahren an Berufserfahrung. Eingestiegen im absolutem Sondermaschinenbau kunststoff verarbeitende Maschinen, absoliverte ich mit ständiger Begeisterungen neue Stationen und wagte mich in neue Tätigkeitsfelder vor. Mit den gewonnen Erfahrungsschatz stürze ich mich mit Begeisterung auf die neuen Herausforderungen meiner beruflichen Karriere.
+
+
+Neben meiner Familie, welche ich sehr schätze, sorgen ehrenamtliche Tätigkeiten, Hobbies und die Liebe zur Natur für den nötigen Ausgleich.
+'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "info@tefe.cc"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/TEFEDotCC"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/8867478/siassei"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/thomas-enzinger-9408a0192/"
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 60
+  color: blue
+
+- name: Team Work
+  percentage: 90
+  color: yellow
+
+- name: Communication
+  percentage: 55
+  color: pink
+
+- name: Hard Working
+  percentage: 85
+  color: green
+
+- name: Fast Learner
+  percentage: 80
+  color: sky
+
+- name: Problem Solving
+  percentage: 90
+  color: orange

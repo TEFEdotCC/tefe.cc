@@ -1,0 +1,146 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: W&H Dentalwerke Bürmoos GmbH
+    url: "https://www.wh.com"
+    location: 'Bürmoos (AUT)'
+    overview: 'Die internationale W&H-Gruppe mit Headquarter in Bürmoos (Österreich) ist weltweit führend in der Entwicklung und Herstellung von Medizintechnikprodukten. Leidenschaft und Innovation sind der Motor des Unternehmens. Hochwertige Produkt- und Servicelösungen, eine moderne Unternehmensstruktur, ein starker Fokus auf Forschung & Entwicklung sowie soziale Verantwortung machen W&H zu einem lokal und global erfolgreichen Familienunternehmen.'
+  positions:
+  - designation: 'Technischer Mitarbeiter F&E'
+    start: Februar 2018
+    responsibilities:
+    - Produktvorentwicklung und Technologieaufbau
+    - '**Bereich:** Mechanische Antriebskomponenten'
+    - '**Hauptverantwortungsgebiete:** Strömungslehre und Lagertechnologie'
+    - 'Automatisierung und ständige Verbesserung von Arbeitstätigkeiten, speziell im Bereich der Messtechnik'
+    - Enge Zusammenarbeit mit Entwickler und Produktmanager's
+
+- company:
+    name: 'Hochschule Landshut'
+    url: "https://www.haw-landshut.de/"
+    location: 'Landshut (DE)'
+    overview: 'Die Hochschule Landshut bietet in den sechs Fakultäten Betriebswirtschaft, Elektrotechnik und Wirtschaftsingenieurwesen, Informatik, Interdisziplinäre Studien, Maschinenbau und Soziale Arbeit über 30 Bachelor- und Masterstudiengänge an.
+
+
+    Stetig verkürzte Produktzyklen und damit immer kürzer werdende Entwicklungszyklen erfordern zusammen mit stetig steigender Komplexität der Systeme zunehmend den Einsatz von Simulation. Daneben gewinnt der Leichtbau gerade im Hinblick auf Energieeffizienz immer mehr an Bedeutung.
+
+
+    Der Masterstudiengang bietet Ihnen die Chance, sich auf dem Gebiet des Leichtbaus, der Produkt- und Prozessentwicklung sowie des Computer Aided Engineering weiterzubilden und den international anerkannten akademischen Grad Master of Engineering zu erwerben.
+
+
+    Sie erwerben Kenntnisse, Fertigkeiten und Kompetenzen, die Sie für eine Tätigkeit als Fachspezialist oder Führungskraft für Berechnung, Konstruktion und Entwicklung oder für eine Promotion befähigen. Mit den erworbenen Qualifikationen können Sie Entwicklungs- und Fertigungsprozesse in einem komplexen Umfeld verstehen und gestalten sowie innovative Produkte und Technologien mit modernen CAE-Methoden und Instrumenten entwickeln.'
+  positions:
+  - designation: 'Leichtbau und Simulation, Master of Engineering (M.Eng.)'
+    start: März 2015
+    end: Dezember 2017
+    responsibilities:
+    - '**Wahlfach:** Lastannahmen'
+    - '**Abschlussarbeit:**: Layup-Optimierung von Laminatstrukturen für
+komplexe Schalenstrukturen<br />
+Erstprüfer: Prof. Dr.-Ing. Karl Friedrich Reiling<br />
+Betreuer: Dr.-Ing. Herbert Haller von [INTALES GmbH](http://www.intales.com/), Natters (AUT)'
+
+- company:
+    name: Kiefel GmbH
+    url: "https://www.kiefel.com"
+    location: 'Freilassing (DE)'
+    overview: 'Seit über 60 Jahren gehört Kiefel zu den Marktführern in der Konzeption und Herstellung von Maschinen für die Verarbeitung von Kunststoffen. Als Spezialist für Thermoformen und Fügetechniken verfügen wir über ein weltweites Vertriebs- und Service-Netzwerk mit Vertretungen rund um den Globus.'
+  positions:
+  - designation: 'Konstrukteur'
+    start: Juli 2012
+    end: März 2015
+    responsibilities:
+    - '**Branche:** Automobil'
+    - Konzeption, Konstruktion und Betreuung bis Auslieferung von Sondermaschinen, Neuentwicklungen und Laboranlagen.
+    - Erstellen sämtlicher erforderlichen Berechnungsgrundlagen
+    - Funktionspläne und Übersichten
+    - Erstellung von Gefahrenanalysen im Rahmen der CE-Vorschrift
+    - Verantwortlich für kontinuierliche Verbesserungen von Arbeitsweisen, Bauteilen und Baugruppen im Verantwortungsbereich
+
+- company:
+    name: 'Ostbayerische Technische Hochschule Regensburg'
+    url: "https://www.oth-regensburg.de/"
+    location: 'Regensburg (DE)'
+    overview: 'Die Ostbayerische Technische Hochschule Regensburg (OTH Regensburg) wurde 1971 als Hochschule für Technik, Wirtschaft und Sozialwesen gegründet. Heute ist sie eine der größten Hochschulen für angewandte Wissenschaften in Bayern.'
+  positions:
+  - designation: 'Maschinenbau, Bachelor of Engineering (B.Eng.)'
+    start: März 2009
+    end: Juli 2012
+    responsibilities:
+    - '**Schwerpunkt:** Energietechnik'
+    - '**AW-Fächer**: UNIcert-II Technical English I, IT-Recht, Patentrecht'
+    - '**Projektarbeit**: Regelung des mathematischen Pendels (Nicht-Linearer-Regler beherscht das Aufschwingen inklusive)<br />
+      <ul>
+        <li>[Päsentantion - Zwischenstand](/files/ref/regensburg/PA_Folienvorlage_SS2011.pdf)</li>
+        <li>[Abschlussbericht](/files/ref/regensburg/PA_TechnischerBericht.pdf)</li>
+        <li>[Video von Reglerverhalten](/files/ref/regensburg/Regelung_inverses_Pendel.wmv)</li>
+      </ul>'
+    - '**Abschussarbeit**: Modellierung der magnetischen Hysterese<br />Betreuer: Prof. Dr.-Ing. Borchsenius<br />Cooperation: Continental Regensburg'
+    - 'Studentische Hilfskraft bei Prof. Dr.-Ing. Borchsenius<br />Programmierung von Tools im Bereich der technischen Mechanik'
+    - 'Studentische Hilfskraft bei Prof. Dr.-Ing. Britten<br />CATIA V5 Grundkurse Angebot für Studenten'
+    - 'Werksstudent bei Continental in Regensburg<br />Diesel-Einspritzdüsen-Entwicklungsabteilung, CFD Berechnungen'
+
+- company:
+    name: HBB Engineering GmbH
+    url: "https://www.hbb-engineering.de/"
+    location: 'Anger (DE)'
+    overview: Spezialist in der Ausbildung und Anwendung rund um das Softwarepacket **Siemens NX**.
+  positions:
+  - designation: 'Konstrukteur, CAD/CAM – Fachmann'
+    start: Juli 2008
+    end: März 2009
+    responsibilities:
+    - Vorbereitung und Durchführung von Schulungen im CAD-Bereich
+    - Konstruktionen für Vorrichtungsbau
+    - Kundenunterstützung bei komplexen Fragenstellung
+    - Spezialthemen (wie z.B. große Baugruppen)
+
+- company:
+    name: 'Städtische Fachschule München'
+    url: "https://www.technikerschule-muenchen.de/"
+    location: 'München (DE)'
+    overview: Städtische Fachschule zur Ausbildung von stattlich geprüften Techniker der Fachrichtung Maschinenbau, Elektronik und Informatik.
+  positions:
+  - designation: 'Techniker, Fachrichtung: Maschinenbau'
+    start: September 2006
+    end: Juli 2008
+    responsibilities:
+    - 'Sprachreise zu einer Gastfamilie im Sommer 2007 nach Dublin, Irland'
+    - 'Zertifizierung zum Projektmanagementfachmann **Level D** nach [GPM / IPMA](https://www.gpm-ipma.de)'
+    - 'Abschluss: Betriebswirtschaftslehre (IHK)'
+    - Erwerb der allgemeinen Fachhochschulreife
+    - Anstellung in den freien Zeiten bei [Rudholzer GmbH](https://www.rudholzer-technology.com/) und [Kiefel GmbH](https://www.kiefel.com)
+
+- company:
+    name: Kiefel GmbH
+    url: "https://www.kiefel.com"
+    location: 'Freilassing (DE)'
+    # company overview
+    overview: 'Seit über 60 Jahren gehört Kiefel zu den Marktführern in der Konzeption und Herstellung von Maschinen für die Verarbeitung von Kunststoffen. Als Spezialist für Thermoformen und Fügetechniken verfügen wir über ein weltweites Vertriebs- und Service-Netzwerk mit Vertretungen rund um den Globus.'
+  positions:
+  - designation: Industriemechaniker
+    start: Februar 2004
+    end: September 2006
+    responsibilities:
+    - 'Baugruppenmontage, Schwerpunkt: Stanzanlagen'
+    - Fertigungs, Schweiß- und Blecharbeiten
+    - Montage und Service-Einsätze beim Kunden vor Ort
+
+  - designation: 'Ausbildung - Industriemechaniker Maschinen- und Systemtechnik'
+    start: September 2000
+    end: Februar 2004
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - All in house factory at these times
+    - Intensive und umfangreiche technische Ausbildung
